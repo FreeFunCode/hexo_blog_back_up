@@ -1,6 +1,6 @@
 ---
 title: Hello Hexo
-date: 2019-09-02 19:20:47
+date: 2014-04-27 19:20:47
 tags: hexo
 categories: Hexo
 ---
@@ -17,6 +17,18 @@ categories: Hexo
 `npm install hexo-deployer-git --save`
 ## 发布文章
 创建文章相关文件：`$ hexo new <title>`  `hexo clean && hexo g && hexo d`
+
+## git常用命令
+
+> `git init` 新建一个空的仓库
+> `git status` 查看状态
+> `git add . ` 添加文件
+> `git commit -m` '注释' 提交添加的文件并备注说明
+> `git remote add origin git@github.com:FreeFunCode/hexo_blog_back_up.git` 连接远程仓库
+> `git push -u origin master` 将本地仓库文件推送到远程仓库
+
+
+
 
 ## 排查
 `http://www.yamllint.com/`
