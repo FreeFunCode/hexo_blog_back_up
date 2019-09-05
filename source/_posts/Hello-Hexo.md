@@ -11,12 +11,18 @@ categories: Hexo
 * 在对应的文件夹下键入命令`hexo init Blog`
 * 键入命令`hexo s`，本地访问 `http://localhost:4000`
 ## 常用命令
-`hexo clean && hexo g && hexo d`
+* `hexo clean && hexo g && hexo d`
+* `npm install -g gulp`
+* `gulp`  // 执行压缩
 ### 部署需要用到插件
 `hexo-deployer-git`
 `npm install hexo-deployer-git --save`
 ## 发布文章
-创建文章相关文件：`$ hexo new <title>`  `hexo clean && hexo g && hexo d`
+创建文章相关文件：
+* `$ hexo new <title>` 
+* `hexo clean && hexo g && hexo d`
+* `hexo clean && hexo g && gulp && hexo d`
+* 执行`.\node_modules\.bin\gulp.cmd`
 
 ## git常用命令
 
