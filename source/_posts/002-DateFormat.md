@@ -2,7 +2,9 @@
 title: C#/JavaScript/SqlServer 对日期时间的操作整理汇总
 date: 2014-05-08 14:17:15
 tags: 日期格式化
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Day20140508.html)

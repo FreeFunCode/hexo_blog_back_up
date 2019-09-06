@@ -2,7 +2,9 @@
 title: 使用“天地图”实现“百度地图”的GPS单点沿线运动，来模拟物体运动轨迹。
 date: 2014-11-09 17:10:29
 tags: 地图
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/baidumap.html)
 

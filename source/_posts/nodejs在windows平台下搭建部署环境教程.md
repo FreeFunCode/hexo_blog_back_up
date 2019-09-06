@@ -2,7 +2,7 @@
 title: nodejs在windows平台下搭建部署环境教程
 date: 2014-08-24 01:30:43
 tags: nodejs
-categories: 前端知识
+categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/nodejs.html)
 

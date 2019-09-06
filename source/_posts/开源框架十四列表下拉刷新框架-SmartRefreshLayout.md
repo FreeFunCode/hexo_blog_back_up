@@ -3,7 +3,9 @@ layout: android
 title: Android 开源框架 ( 十四 ) 列表下拉刷新框架 --- SmartRefreshLayout
 date: 2018-08-07 20:23
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SmartRefresh.html)
 

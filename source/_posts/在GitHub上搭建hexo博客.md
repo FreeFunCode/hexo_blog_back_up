@@ -2,7 +2,7 @@
 title: 在GitHub上搭建hexo博客
 date: 2014-11-23 14:06:58
 tags: hexo
-categories: Hexo
+categories: GitHub
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/hexo.html)
 

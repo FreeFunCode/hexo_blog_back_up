@@ -2,7 +2,9 @@
 title: SqlServer数据库添加角色，角色授权
 date: 2014-12-02 17:15:01
 tags: SqlServer
-categories: 数据库
+categories: 
+- 后端
+- CSharp
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/sqlgrant.html)
 

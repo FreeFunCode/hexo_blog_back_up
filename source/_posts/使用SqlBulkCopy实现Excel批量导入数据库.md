@@ -2,7 +2,9 @@
 title: 使用SqlBulkCopy实现Excel批量导入数据库
 date: 2014-12-02 18:05:14
 tags: Excel操作
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SqlBulkCopy.html)

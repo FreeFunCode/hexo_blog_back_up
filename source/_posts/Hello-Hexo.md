@@ -2,7 +2,7 @@
 title: Hello Hexo
 date: 2014-04-27 19:20:47
 tags: hexo
-categories: Hexo
+categories: GitHub
 ---
 ## 安装
 * 安装Node.js: Node.js安装包下载地址，选择安装位置，然后安装时一直点next即可。

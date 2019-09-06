@@ -2,7 +2,9 @@
 title: Windows下搭建PHP开发环境，整合Apache+PHP+MySQL（举例软件为32位）
 date: 2014-08-21 15:42:28
 tags: php
-categories: PHP后端
+categories: 
+- 后端
+- PHP
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/phpenvironment.html)
 

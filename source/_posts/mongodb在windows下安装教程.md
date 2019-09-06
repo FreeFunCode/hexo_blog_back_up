@@ -2,7 +2,7 @@
 title: mongodb在windows下安装教程
 date: 2014-08-24 02:10:01
 tags: mongodb
-categories: 前端知识
+categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/mongod.html)
 

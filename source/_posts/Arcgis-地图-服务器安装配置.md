@@ -2,7 +2,9 @@
 title: Arcgis-地图-服务器安装配置
 date: 2014-11-08 04:00:13
 tags: 地图
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/arcgis.html)

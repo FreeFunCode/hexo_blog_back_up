@@ -2,7 +2,9 @@
 title: mono_for_Android环境配置-环境搭建+破解方法+运行一个小程序-
 date: 2014-09-12 13:50:06
 tags: mono_for_Android
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/monoforandroid.html)

@@ -2,7 +2,9 @@
 title: 在vmware虚拟机中安装MacOSXMountainLion10.8.2系统并使用MAMP安装部署环境
 date: 2014-09-06 12:41:21
 tags: MAMP
-categories: PHP后端
+categories: 
+- 后端
+- PHP
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/macos.html)
 

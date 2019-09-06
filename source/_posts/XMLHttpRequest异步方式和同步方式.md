@@ -2,7 +2,9 @@
 title: XMLHttpRequest异步方式和同步方式
 date: 2014-09-28 20:19:04
 tags: XMLHttpRequest
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/XMLHttpRequest.html)
 

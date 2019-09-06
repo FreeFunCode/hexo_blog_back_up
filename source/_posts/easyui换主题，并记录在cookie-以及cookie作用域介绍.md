@@ -2,7 +2,7 @@
 title: easyui换主题，并记录在cookie.以及cookie作用域介绍
 date: 2015-06-02 21:22:20
 tags: easyui
-categories: 前端知识
+categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/cookie.html)
 

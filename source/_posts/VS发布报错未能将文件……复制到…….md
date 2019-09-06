@@ -2,7 +2,9 @@
 title: VS发布报错未能将文件……复制到……
 date: 2015-06-01 21:25:08
 tags: visualStudio
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/notfund.html)
 

@@ -2,7 +2,9 @@
 title: Java基础面试题汇总
 date: 2018-07-01 04:16:31
 tags: 面试
-categories: JAVA
+categories: 
+- 后端
+- JAVA
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/java_interview.html)
 

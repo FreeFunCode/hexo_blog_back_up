@@ -2,7 +2,9 @@
 title: 在新浪SAE上搭建自己的网站！
 date: 2014-08-24 21:45:51
 tags: 新浪SAE
-categories: PHP后端
+categories: 
+- 后端
+- PHP
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SinaAppEngine.html)
 

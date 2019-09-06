@@ -2,7 +2,9 @@
 title: 在vmware虚拟机中安装centos系统并使用LNMP安装部署环境
 date: 2014-09-06 11:32:34
 tags: LNMP
-categories: PHP后端
+categories: 
+- 后端
+- PHP
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/centos.html)
 

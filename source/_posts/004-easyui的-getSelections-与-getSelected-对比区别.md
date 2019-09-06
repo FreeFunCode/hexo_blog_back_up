@@ -2,7 +2,7 @@
 title: easyui的 getSelections 与 getSelected 对比区别
 date: 2014-07-14 14:11:27
 tags: easyui
-categories: 前端知识
+categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/3842624.html)
 

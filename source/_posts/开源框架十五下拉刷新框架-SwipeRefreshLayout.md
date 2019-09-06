@@ -3,7 +3,9 @@ layout: android
 title: Android 开源框架 ( 十五 ) 下拉刷新框架 --- SwipeRefreshLayout
 date: 2018-08-07 20:28:54
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SwipeRefreshLayout.html)
 

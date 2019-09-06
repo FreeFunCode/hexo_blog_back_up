@@ -2,7 +2,9 @@
 title: 错误：类型System.Object未定义或者不能引入项目
 date: 2015-06-07 14:33:14
 tags: c#
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/mscorlib.html)

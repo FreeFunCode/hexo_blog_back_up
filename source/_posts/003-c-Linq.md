@@ -2,7 +2,9 @@
 title: Linq中int转String（解决LINQ to Entities 不识别方法"System.String ToString()",因此该方法无法转换为存储表达式.）
 date: 2014-05-27 17:03:35
 tags: Linq 
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/2014-05-27.html)

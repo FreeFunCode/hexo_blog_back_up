@@ -2,7 +2,9 @@
 title: '使用uploadify上传大文件报IOerror#2038错误的解决方案'
 date: 2014-09-03 16:42:58
 tags: C#文件上传
-categories: CSharp后端
+categories: 
+- 后端
+- CSharp
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/uploadify.html)
 
