@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 一 ) OkHttp 网络框架的基本使用
 date: 2018-07-28 14:21:25
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/rxjava_get.html)
 

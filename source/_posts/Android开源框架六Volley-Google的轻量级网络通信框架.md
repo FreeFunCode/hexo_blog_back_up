@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 六 ) Volley --- Google的轻量级网络通信框架
 date: 2018-08-01 07:36:18
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Volley.html)
 

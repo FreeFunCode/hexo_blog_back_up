@@ -2,7 +2,9 @@
 title: Android7.0下载APK后自动安装
 date: 2018-07-28 18:57:46
 tags: Android7.0
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/strictMode.html)
 

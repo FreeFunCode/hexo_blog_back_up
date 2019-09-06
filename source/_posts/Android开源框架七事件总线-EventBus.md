@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 七 ) 事件总线---EventBus
 date: 2018-08-02 22:54:14
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/eventbus.html)
 

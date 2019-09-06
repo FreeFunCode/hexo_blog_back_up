@@ -2,7 +2,9 @@
 title: Android进阶学习笔记整理
 date: 2018-07-22 16:27:43
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 top: 1
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/9350418.html)

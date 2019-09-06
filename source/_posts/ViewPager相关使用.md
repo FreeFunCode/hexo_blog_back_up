@@ -2,7 +2,9 @@
 title: ViewPager相关使用
 date: 2018-07-21 23:59:41
 tags: ViewPager
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/viewpager.html)
 

@@ -3,7 +3,9 @@ layout: android
 title: Android 四大组件 (三) BroadcastReceiver 介绍
 date: 2018-05-16 12:33:39
 tags: BroadcastReceiver
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/BroadcastReceiver.html)

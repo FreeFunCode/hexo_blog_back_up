@@ -2,7 +2,9 @@
 title: Android 源码分析（十） Dalvik 虚拟机创建过程
 date: 2018-07-09 21:04:17
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/dalvik.html)

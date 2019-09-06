@@ -3,7 +3,9 @@ layout: android
 title: Android 四大组件 (一) Activity 生命周期
 date: 2018-04-11 20:00:39
 tags: Activity
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/activity_lifecycle.html)
 

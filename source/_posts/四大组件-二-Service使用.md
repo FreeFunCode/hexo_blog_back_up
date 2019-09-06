@@ -3,7 +3,9 @@ layout: android
 title: Android 四大组件 (二) Service 使用
 date: 2018-05-13 23:46:47
 tags: Service
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/android_service.html)

@@ -2,7 +2,9 @@
 title: Android8.0新特性介绍以及注意事项
 date: 2018-07-14 13:13:38
 tags: Android
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/android8_new_features.html)

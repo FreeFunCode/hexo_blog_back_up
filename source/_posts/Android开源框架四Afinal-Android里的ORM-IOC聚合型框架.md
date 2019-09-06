@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 四 ) Afinal --- Android 里的 ORM IOC聚合型框架
 date: 2018-07-30 23:07:12
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/afinal.html)
 

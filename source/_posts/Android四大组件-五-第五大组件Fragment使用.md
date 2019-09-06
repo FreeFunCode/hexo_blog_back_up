@@ -2,7 +2,9 @@
 title: Android 四大组件 (五) 第五大组件 - Fragment 使用
 date: 2018-07-19 09:20:09
 tags: Android
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/fragment.html)
 

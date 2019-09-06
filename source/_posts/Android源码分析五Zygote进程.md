@@ -2,7 +2,9 @@
 title: Android 源码分析（五） Zygote 进程
 date: 2018-07-07 14:14:54
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/zygote.html)

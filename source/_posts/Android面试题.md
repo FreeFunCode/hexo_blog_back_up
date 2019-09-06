@@ -2,7 +2,9 @@
 title: Android面试题
 date: 2019-08-25 22:31:56
 tags: 面试
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://juejin.im/post/5d6289bcf265da03e83b783c)
 

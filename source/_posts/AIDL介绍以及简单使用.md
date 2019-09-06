@@ -2,7 +2,9 @@
 title: AIDL介绍以及简单使用
 date: 2018-07-21 13:05:21
 tags: AIDL
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/aidl.html)

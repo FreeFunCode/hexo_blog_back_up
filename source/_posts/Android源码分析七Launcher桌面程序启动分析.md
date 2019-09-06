@@ -2,7 +2,9 @@
 title: Android 源码分析（七） Launcher 桌面程序启动分析
 date: 2018-07-07 19:51:44
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Launcher.html)

@@ -2,7 +2,9 @@
 title: Android源码分析（十三）ActivityManagerService服务分析
 date: 2018-07-22 13:33:13
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ActivityManagerService.html)
 

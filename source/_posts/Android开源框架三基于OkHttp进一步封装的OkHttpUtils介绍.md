@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 三 ) 基于OkHttp进一步封装的OkHttpUtils介绍
 date: 2018-07-29 22:51:43
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/OkHttpUtils.html)
 

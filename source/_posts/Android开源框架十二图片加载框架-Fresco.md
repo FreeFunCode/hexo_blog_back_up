@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 十二 ) 图片加载框架---Fresco
 date: 2018-08-05 18:43:27
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Fresco.html)
 

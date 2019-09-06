@@ -2,7 +2,9 @@
 title: Android 源码分析（十一） 事件传递机制
 date: 2018-07-15 13:18:25
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/touchEvent.html)
 

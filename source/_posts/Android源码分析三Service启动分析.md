@@ -2,7 +2,9 @@
 title: Android 源码分析（三） Service 启动分析
 date: 2018-06-24 14:24:40
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/startService.html)

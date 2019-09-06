@@ -2,7 +2,9 @@
 title: Android 开源框架 系列 导读
 date: 2018-08-05 22:15:29
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 top: 1
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/openSourceFrameworks.html)

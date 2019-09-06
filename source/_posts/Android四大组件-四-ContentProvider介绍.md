@@ -2,7 +2,9 @@
 title: Android 四大组件 (四) ContentProvider介绍
 date: 2018-06-18 03:29:27
 tags: ContentProvider
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ContentProvider.html)
 

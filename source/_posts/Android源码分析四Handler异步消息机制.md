@@ -2,7 +2,9 @@
 title: Android 源码分析（四） Handler 异步消息机制
 date: 2018-07-07 12:40:19
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/handler.html)
 

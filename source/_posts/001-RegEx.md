@@ -2,7 +2,9 @@
 title: 《正则表达式》知识点汇总摘录
 date: 2014-05-07 16:17:16
 tags: 正则表达式
-categories: 知识点
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/theday140507.html)

@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 十 ) 图片加载框架---Picasso
 date: 2018-08-05 13:56:31
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Picasso.html)
 

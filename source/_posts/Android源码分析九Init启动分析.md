@@ -2,7 +2,9 @@
 title: Android 源码分析（九） Init 启动分析
 date: 2018-07-08 23:05:42
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/init.html)
 

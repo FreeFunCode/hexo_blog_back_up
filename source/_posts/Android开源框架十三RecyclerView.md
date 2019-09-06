@@ -2,7 +2,9 @@
 title: Android 开源框架 ( 十三 ) RecyclerView
 date: 2018-08-05 21:19:57
 tags: 开源框架
-categories: 开源框架
+categories: 
+- Android
+- 开源框架
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/recyclerview.html)
 

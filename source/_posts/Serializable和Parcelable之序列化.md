@@ -2,7 +2,9 @@
 title: Serializable和Parcelable之序列化
 date: 2018-07-22 00:28:23
 tags: 序列化
-categories: Android
+categories: 
+- Android
+- 知识点
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Serializable_Parcelable.html)

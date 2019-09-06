@@ -2,7 +2,9 @@
 title: Android源码分析（十四）PackageManagerService服务分析
 date: 2018-07-22 14:59:30
 tags: 安卓源码
-categories: 安卓源码
+categories: 
+- Android
+- 安卓源码
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/PackageManagerService.html)
 
