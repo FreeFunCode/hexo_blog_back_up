@@ -4,7 +4,7 @@ date: 2019-10-19 16:40:15
 tags: coroutine协程
 categories: 
 - Android
-- 知识点
+- kotlin
 ---
 
 # Android-kotlin-coroutine协程的概念
