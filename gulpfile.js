@@ -4,7 +4,7 @@ var uglify = require('gulp-uglify');
 var htmlmin = require('gulp-htmlmin');
 var htmlclean = require('gulp-htmlclean');
 var imagemin = require('gulp-imagemin');
-
+ 
 // 压缩html
 gulp.task('minify-html', function() {
     return gulp.src('./public/**/*.html')
