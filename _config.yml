@@ -79,7 +79,7 @@ pagination_dir: page
 # theme: landscape
 # theme: hexo
 # theme: nexmoe
-theme: hexo
+theme: hexo-theme-xups
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

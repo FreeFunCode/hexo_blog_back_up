@@ -1,0 +1,155 @@
+#############################
+# Xups for Hexo 主题配置文件
+# Jelon
+# https://jelon.top
+#############################
+
+#----------------------------
+# 头部导航
+#----------------------------
+menu:
+  home:
+    name: 首页
+    link: /
+    icon: icon-home
+  lab:
+    name: 时间线
+    link: /lab/
+    icon: icon-lab
+  about:
+    name: 关于
+    link: /about/
+    icon: icon-about
+  comment:
+    name: 留言
+    link: /comment/
+    icon: icon-comment
+
+#----------------------------
+# 副导航
+#----------------------------
+subnav:
+  github: "#"
+  weibo: "#"
+  rss: "#"
+  zhihu: "#"
+
+#----------------------------
+# RSS
+#----------------------------
+rss: /atom.xml
+
+#----------------------------
+# Favicon
+#----------------------------
+favicon: /img/favicon.ico
+
+#----------------------------
+# 头像url
+#----------------------------
+avatar: /img/user.png
+
+#----------------------------
+# 是否开启分享
+#----------------------------
+share: true
+
+#----------------------------
+# 侧栏是否显示微博秀
+#----------------------------
+weibo_show:
+  enable: false
+  code: <iframe id="myWeibo" width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=230689567&verifier=796ea597&dpc=1"></iframe>
+
+#----------------------------
+# 是否开启评论
+#----------------------------
+comment:
+  enable: true
+  owner: FreeFunCode
+  repo: FreeFunCode.github.io
+  client_id: f59edbb15c434fe50f63
+  client_secret: 5ad8f05641605b384357bd325058c4cddd58b93b
+
+#----------------------------
+# 是否开启云标签
+#----------------------------
+tagcloud: true
+
+#----------------------------
+# 友情链接
+#----------------------------
+friends:
+  enable: true
+  list:
+    1:
+      name: 稀土掘金
+      title: 稀土掘金
+      link: https://juejin.im/user/5ceb7d54f265da1b8466c2f5/posts
+    2:
+      name: 博客园
+      title: 博客园
+      link: https://www.cnblogs.com/bugzone
+    3:
+      name: 新浪微博
+      title: 新浪微博
+      link: https://weibo.com/230689567
+    4:
+      name: 简书
+      title: 简书
+      link: https://www.jianshu.com/u/ba21180e6aab
+    5:
+      name: GitHub
+      title: GitHub
+      link: https://github.com/freefuncode/
+    6:
+      name: GitBook
+      title: GitBook
+      link: https://freefuncode.github.io/GitBook
+
+
+#----------------------------
+# 头部链接
+#----------------------------
+head_links:
+  enable: true
+  list:
+    sup:
+      0:
+        name: good good study ,day day up!
+#        link: https://www.jianshu.com/u/ba21180e6aab
+      last:
+        name: 利用碎片化时间挖掘知识深度！
+#        link: https://www.cnblogs.com/bugzone/
+    sub:
+      juejin:
+        name: 稀土掘金
+        link: https://juejin.im/user/5ceb7d54f265da1b8466c2f5/posts	
+      sinaweibo:
+        name: 新浪微博
+        link: https://weibo.com/230689567
+
+#----------------------------
+# SEO
+#----------------------------
+SEO:
+  keywords: freefuncode, Android, Kotlin, 网络记事本, 网记本
+  description: FreeFunCode网络记事本
+
+#----------------------------
+# 百度分析
+#----------------------------
+baidu_analytics: true
+
+#----------------------------
+# 高亮样式
+#----------------------------
+highlight_theme: normal
+#----------------------------
+# CDN
+# 如: //7xs305.com1.z0.glb.clouddn.com/
+# 主要以下两个目录进行 cdn 存储
+#   - img 图片资源下的 thumbnail 目录
+#   - css 样式资源下的 fonts 目录
+#----------------------------
+CDN:
