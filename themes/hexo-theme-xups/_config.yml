@@ -153,3 +153,17 @@ highlight_theme: normal
 #   - css 样式资源下的 fonts 目录
 #----------------------------
 CDN:
+  jquery: //cdn.bootcss.com/jquery/2.2.4/jquery.min.js
+  jquery_cookie: //cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js
+  jquery_ui: //cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js
+  jquery_ui_css: //cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.css
+  highlight: //cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js
+  pjax: //cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js
+  animate: //cdn.bootcss.com/animate.css/3.5.2/animate.min.css
+  font_awsome: //cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css
+  nprogres_js: //cdn.bootcss.com/nprogress/0.2.0/nprogress.min.js
+  mathjax: //cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
+  photoswipe_js: //cdn.bootcss.com/photoswipe/4.1.2/photoswipe.min.js
+  photoswipe_ui_js: //cdn.bootcss.com/photoswipe/4.1.2/photoswipe-ui-default.min.js
+  photoswipe_css: //cdn.bootcss.com/photoswipe/4.1.2/photoswipe.min.css
+  photoswipe_skin_css: //cdn.bootcss.com/photoswipe/4.1.2/default-skin/default-skin.min.css
