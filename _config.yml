@@ -102,6 +102,8 @@ service_worker:
   - public/tech/*
   - public/favicon.ico
   - public/manifest.json
+  - public/img/*
+  - public/images/*
   stripPrefix: public
   verbose: false
   runtimeCaching:

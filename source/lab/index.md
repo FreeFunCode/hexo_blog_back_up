@@ -4,6 +4,13 @@ date: 2019-08-25 20:29:57
 pageid: lab
 
 projects:
+    博客访问加速优化:
+        title: 博客访问加速优化
+        time: 2019-10-20
+        content:
+            1:
+                name: 之前一直都有gulp压缩，感觉效果还不是不明显。继续探索，发现Hexo 的两个插件 hexo-service-worker、hexo-filter-optimize 。果断入手实施了。
+
     更换主题xups:
         title: 更换主题xups
         time: 2019-10-20
