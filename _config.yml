@@ -128,8 +128,9 @@ theme: hexo-theme-xups
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://freefuncode.github.io/
+#url: https://freefuncode.github.io/
 #url: https://bugzone.gitee.io/
+url: https://inote.fun/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -138,6 +139,11 @@ permalink_defaults:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://github.com/FreeFunCode/FreeFunCode.github.io 
+#  repo: https://github.com/FreeFunCode/FreeFunCode.github.io 
 #  repo: https://gitee.com/bugzone/bugzone.git
+#  https://e.coding.net/hgz/hgz.coing.me.git
+  repo: 
+    coding: https://e.coding.net/hgz/hgz.coing.me.git
+    github: https://github.com/FreeFunCode/FreeFunCode.github.io
+    gitee: https://gitee.com/bugzone/bugzone.git
   branch: master 
