@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/centos.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><strong>一。介绍</strong>:题目有点绕口，大概意思就是分两步完成，首先在vmware虚拟机中安装centos系统，然后在centos系统中使用lnmp安装包安装项目部署环境。</p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp; 准备工作</strong>（很重要，所需安装软件如果都没找对，怎么能安装成功）</p>

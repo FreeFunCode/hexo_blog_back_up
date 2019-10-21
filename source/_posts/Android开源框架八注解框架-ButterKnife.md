@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ButterKnife.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.引言</h2>
 <div>&nbsp; &nbsp;ButterKnife是一个专注于Android系统的View注入框架</div>

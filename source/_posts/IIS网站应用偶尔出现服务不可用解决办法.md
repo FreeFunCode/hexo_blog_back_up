@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/netframework.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp;&nbsp;&nbsp; IIS网站应用偶尔出现"服务不可用"或者显示乱码字体，使用以下办法可以解决。</p>
 <p>&nbsp;&nbsp;&nbsp; 原因：此种情况常会出现在iis是在Visual Studio或者.NET Framework之后安装发生，iis无法正确解析asp.net网站，但却<span style="color: #000000;">可以正常访问html页面</span>，</p>

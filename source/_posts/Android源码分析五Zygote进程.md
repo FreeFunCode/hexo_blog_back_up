@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/zygote.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.前言:&nbsp;&nbsp;</h2>
 <p>&nbsp;&nbsp;&nbsp; init进程 –&gt; Zygote进程 –&gt; SystemServer进程 –&gt; Launcher桌面程序 -&gt; 我们的App应用<br><br>&nbsp;&nbsp;&nbsp; init进程：linux的根进程，android系统是基于linux系统的，因此可以算作是整个android操作系统的第一个进程；</p>

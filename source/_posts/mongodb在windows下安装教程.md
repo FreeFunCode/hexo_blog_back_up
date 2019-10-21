@@ -6,6 +6,8 @@ categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/mongod.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><span style="color: #ff0000;"><strong>原文来自：http://www.cnblogs.com/lecaf/archive/2013/08/23/mongodb.html</strong></span></p>
 <p><span style="color: #ff0000;"><strong>红字为本人加</strong></span></p>

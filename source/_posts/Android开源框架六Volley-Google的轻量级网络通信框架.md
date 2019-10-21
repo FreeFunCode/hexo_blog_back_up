@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Volley.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.Volley介绍 　　</h2>
 <p>　　2013年Google I/O大会上推出的一个新的Android网络通信框架,目标是将HTTP的通信操作再进行简单化,除了简单易用之外，Volley在性能方面也进行了大幅度的调整，它的设计目标就是非常适合去进行数据量不大，但通信频繁的网络操作，而对于大数据量的网络操作，比如说下载文件等，Volley的表现就会非常糟糕。不过谷歌已经停止更新Volley了，现在OkHttp成为新一代网络通信的新宠。</p>

@@ -9,6 +9,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SwipeRefreshLayout.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　SwipeRefreshLayout是Google官方更新的一个Widget,可以实现下拉刷新的效果。完整包名:android.support.v4.widget.SwipeRefreshLayout .</p>
 <h3>一. 布局</h3>

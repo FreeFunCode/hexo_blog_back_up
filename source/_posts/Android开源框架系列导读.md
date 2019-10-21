@@ -9,6 +9,8 @@ top: 1
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/openSourceFrameworks.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h1>&nbsp;一.导读</h1>
 <h2>　　网络请求</h2>

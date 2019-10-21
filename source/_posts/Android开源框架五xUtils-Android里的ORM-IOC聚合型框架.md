@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Xutils.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　xUtils同Afinal一样属于聚合型框架, 大而全，但是越容易牵一发而动全身。所以不推荐使用,只做了解即可.应付手头临时项目.</p>
 <p>　　<a id="post_title_link_9392534" href="https://www.cnblogs.com/bugzone/p/afinal.html" target="_blank">Android 开源框架 ( 四 ) Afinal --- Android 里的 ORM IOC聚合型框架</a></p>

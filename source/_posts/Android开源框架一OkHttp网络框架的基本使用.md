@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/rxjava_get.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp; &nbsp; &nbsp; &nbsp;<strong>HttpClient&nbsp; 和&nbsp;HttpURLConnection 以及 OkHttp</strong> :</p>
 <p>　　在Android 2.2版本之前，HttpClient拥有较少的bug，因此使用它是最好的选择。 <br>&nbsp; &nbsp; &nbsp; &nbsp; 而在Android2.3版本及以后，HttpURLConnection则是最佳的选择。它的API简单，体积较小，因而非常适用于Android项目。压缩和缓存机制可以有效地减少网络访问的流量，在提升速度和省电方面也起到了较大的作用。对于新的应用程序应该更加偏向于使用HttpURLConnection，因为在以后的工作当中我们也会将更多的时间放在优化HttpURLConnection上面。</p>

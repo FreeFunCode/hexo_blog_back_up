@@ -9,6 +9,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SmartRefresh.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　结合上一篇RecyclerView,介绍一个针对列表的下拉和上拉刷新,加载的框架:SmartRefreshLayout.</p>
 <p>　　　　<a id="post_title_link_9427210" href="https://www.cnblogs.com/bugzone/p/recyclerview.html" target="_blank">Android 开源框架 ( 十三 ) RecyclerView</a></p>

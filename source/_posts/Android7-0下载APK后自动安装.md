@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/strictMode.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp; &nbsp; &nbsp; &nbsp; 随着Android版本越来越高，Android对隐私的保护力度也越来越大。这些隐私权限的更改在为用户带来更加安全的操作系统的同时也为开发者带来了一些新的任务。如何让你的APP能够适应这些改变而不是崩溃，是每一位Android开发者必须要了解学习的。<br>		</p>
 <h2>一.引言</h2>

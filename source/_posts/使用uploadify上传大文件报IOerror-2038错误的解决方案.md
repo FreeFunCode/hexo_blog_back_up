@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/uploadify.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><strong>一.问题说明：</strong></p>
 <p>&nbsp; &nbsp; 目前正在处理一个项目，需要上传视频文件，大小限制在100M以内。使用uploadify来上传视频，上传十几兆的视频能正常上传，但是上传四五十的文件就会报IO error #2038错误。</p>

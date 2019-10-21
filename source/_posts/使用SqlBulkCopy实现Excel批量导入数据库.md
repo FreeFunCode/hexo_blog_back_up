@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/SqlBulkCopy.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h3>引言： &nbsp;&nbsp;</h3>
 <p>&nbsp;&nbsp;&nbsp; 导入Excel数据时候，因为数据量大，使用 linq 操作插入的时候，很慢。考虑使用ado.net操作数据库方式导入数据。由于数据量比较大使用SqlBulkCopy来实现批量导入。</p>

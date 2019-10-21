@@ -6,6 +6,8 @@ categories: 设计模式
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/java_design.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>所有江湖偶遇,都是宿命相逢 ----《逆水寒》，只是觉得文案不错，就用了。哈哈！</p>
 <h2><strong>一.设计原则：</strong></h2>

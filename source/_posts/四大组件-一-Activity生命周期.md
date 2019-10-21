@@ -9,6 +9,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/activity_lifecycle.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp;</p>
 <p>简单粗暴。</p>

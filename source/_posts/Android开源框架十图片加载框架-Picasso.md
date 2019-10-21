@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Picasso.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　Picasso 是Square 公司（SQUARE美国一家移动支付公司）开源的Android 端的图片加载和缓存框架。Square 还开源了Rerefoit 、OkHttp、LeakCanary、Picasso等等都是非常火的开源项目。</p>
 <p>　　Picasso官方介绍网站：<a href="http://square.github.io/picasso/" target="_blank">http://square.github.io/picasso/</a></p>

@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Fresco.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　Fresco是Facebook推出的一款用于Android应用中展示图片的强大图片库。它具有强大的内存管理、渐进式呈现图片、支持加载Gif图和WebP格式等特点。</p>
 <p>　　相比于其他图片框架要庞大的多，但是对于图片的处理也要比其他框架支持的多。</p>

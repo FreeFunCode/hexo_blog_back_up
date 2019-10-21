@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Serializable_Parcelable.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <div>序列化，表示将一个对象转换成可存储或可传输的状态。序列化后的对象可以在网络上进行传输，也可以存储到本地。
 <h3>&nbsp;一.Serializable和Parcelable介绍</h3>

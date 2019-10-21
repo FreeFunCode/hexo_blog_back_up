@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ActivityManagerService.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h3>一.ActivityManagerService(AMS) 启动过程分析</h3>
 <p>在SystemServer启动ActivityManagerService</p>

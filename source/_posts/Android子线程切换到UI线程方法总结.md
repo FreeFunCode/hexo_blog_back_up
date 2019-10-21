@@ -14,6 +14,8 @@ categories:
 > 
 > 然后轮巡取出MessageQueue中的消息给UI线程中handler处理，handler得到消息调用handleMessage方法处理消息，从而可以更新Ui。
 
+<!-- more -->
+
 ```
  private Handler handler2=new Handler(){
         @Override

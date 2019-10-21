@@ -9,6 +9,10 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/mscorlib.html)
 
+
+<!-- more -->
+
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>最近在研究一些网上开源的工作流，下了源代码，发布遇到了问题。“类型 'System.Object' 为定义或者不能引入”，想引入.dll,还不让引入进来。</p>
 <p>&nbsp;</p>

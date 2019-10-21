@@ -6,6 +6,8 @@ categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/nodejs.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><span style="color: #ff0000;">原文地址：http://blog.csdn.net/haidaochen/article/details/7257655</span></p>
 <p><span style="color: #ff0000;">红色字体为本人新增内容。</span></p>

@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/java_interview.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><strong>1. java 中 wait()与sleep() 区别</strong>：<br>答：两者都是暂停当前运行的线程。sleep()是Thread类的方法；wait()是Object类的方法 。调用sleep()，线程不会释放对象锁，其他线程依然无法访问这个对象；调用wait(),线程会释放对象锁，其他线程能访问这个对象。</p>
 <p><strong>2. java中代表价格的数据类型用哪个BigDecimal还是double？</strong><br>答：如果需要精确计算的结果，使用BigDecimal类，但是比较消耗内存和性能；否则可以直接使用float或double。</p>

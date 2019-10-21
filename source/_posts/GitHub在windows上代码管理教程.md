@@ -6,6 +6,8 @@ categories: GitHub
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/github.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>一.下载GitHub for Windows 。地址：https://windows.github.com/</p>
 <p>二.上传代码.</p>

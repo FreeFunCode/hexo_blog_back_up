@@ -6,6 +6,8 @@ categories: GitHub
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/hexo.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>在GitHub上我们可以做许多事，我还在不断探索中...</p>
 <p>在GitHub上搭建博客，可以有多种方法，但是我遇到的，最好的应该是hexo了。</p>

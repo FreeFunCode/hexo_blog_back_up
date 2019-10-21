@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/baidumap.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp;&nbsp;&nbsp;<strong> 一 . </strong>最近在弄智能调度系统，就需要在地图上实现模拟车辆的某一个时间段的运动轨迹。</p>
 <p>&nbsp;&nbsp;&nbsp; 百度地图已经有了这个Demo的示例。附上GPS-单点沿线运动Demo链接：<a href="http://developer.baidu.com/map/jsdemo.htm#c2_5" target="_blank">http://developer.baidu.com/map/jsdemo.htm#c2_5</a></p>

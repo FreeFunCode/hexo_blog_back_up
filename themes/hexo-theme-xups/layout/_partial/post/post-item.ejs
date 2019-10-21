@@ -30,7 +30,7 @@
     <div class="post-content">
         <div class="post-excerpt">
             <% if (index == true) { %>
-                <%- post.blogexcerpt || post.excerpt || post.content %>
+                <%- post.blogexcerpt || post.excerpt %>
             <% } %>
             <p class="more">
                 <a href="<%- url_for(post.permalink) %>">阅读剩下更多</a>

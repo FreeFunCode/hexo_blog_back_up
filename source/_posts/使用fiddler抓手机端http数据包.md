@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/fiddler.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.fiddler工具用途</h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 很广泛。大部分的用法是拦截HTTP请求，分析request和response的具体细节，协助排查前后端联调开发中的问题。当然还可以打HTTP“断点”，修改request请求，绕过前端js限制。这个不限于本地还是remote服务器。因此，对于高手来说，前端js的限制基本不算限制。黑客工具中类似的是burpsuite，功能还要强大。</p>

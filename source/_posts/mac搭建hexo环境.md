@@ -20,6 +20,8 @@ categories: GitHub
 $ sudo chown -R $USER /usr/local
 ```
 
+<!-- more -->
+
 ### 2.安装npm
 ##### 2.1 命令安装：
 

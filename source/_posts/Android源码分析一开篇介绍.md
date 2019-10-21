@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/readTheFuckingSourceCode.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h1>　　Read the fucking source code !!!</h1>
 <h2>　　一.前言：</h2>

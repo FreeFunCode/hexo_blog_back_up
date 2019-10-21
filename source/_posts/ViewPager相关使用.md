@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/viewpager.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.ViewPager+Fragment 预加载</h2>
 <p>&nbsp;ViewPager的预加载，是指ViewPager的内部加载数据机制，它会默认至少预加载一个相邻的ViewPager内的Fragment页数据。<br>&nbsp;<br>&nbsp;如果设置 viewpager.setOffscreenPageLimit(0); 会发现没有效果。<br>&nbsp;可以查看ViewPager.java源码我们知道，ViewPager默认必须预加载一个相邻页面的数据。</p>

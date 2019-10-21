@@ -8,6 +8,9 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/macos.html)
 
+<!-- more -->
+
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><strong>前言</strong>：上一篇介绍&nbsp; <a id="cb_post_title_url" class="postTitle2" href="http://www.cnblogs.com/bugzone/p/centos.html" target="_blank">在vmware虚拟机中安装centos系统并使用LNMP安装部署环境</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 相对于安装centos，安装mac os x有点麻烦，原因应该懂，黑苹果嘛。</p>

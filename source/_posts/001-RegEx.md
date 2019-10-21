@@ -8,6 +8,9 @@ categories:
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/theday140507.html)
+
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
 
 　　<span style="text-decoration: line-through; font-size: 12px;">开园一个月了，但一直没有抽出多少时间，就算有时间，也不知道怎么组织语言记（不是写，是记，写是一个创造的过程，像我这等程序猿，猿嘴吐不出象牙！）点东西！翻翻过去手头整理的一些知识点杂记，然后再结合网上的一些，今天对正则表达式在做一个个人的知识汇总摘录吧！程序员都是共产主义者，一点不假！大部分时候我们只是互联网的搬运工，堆砌者（扯远了，当然成为互联网创造者一直使我们的目标！）。</span>

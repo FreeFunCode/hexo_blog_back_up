@@ -9,6 +9,8 @@ top: 1
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/9350418.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <div>
 <h2>一．android系统架构图及各层介绍</h2>

@@ -8,6 +8,9 @@ categories:
 ---
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Day20140508.html)
+
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
 
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: line-through;">前言：针对C#/JavaScript/SqlServer常用的对日期时间的操作函数抽时间做了一个整理，网络上有许多，但是许多都不全，这些都是时间日期常用的一些操作！</span>

@@ -6,6 +6,8 @@ categories: 心情
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/app_somethings.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp; &nbsp;呵呵,想不出怎样的开场白...索性直奔主题。</p>
 <p>&nbsp; &nbsp;好久没有更新博客了。因为最近比较“忙”,工作上，生活上，先聊工作吧，看了一眼上一篇博客是6月份更新的。算算也有5个月了。</p>

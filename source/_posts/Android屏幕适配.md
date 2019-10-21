@@ -37,6 +37,8 @@ categories:
 - 用来修饰Android中的drawable文件夹及values文件夹，用来区分不同像素密度下的图片和dimen值。
 - 在设计图标时，对于五种主流的像素密度（mdpi、hdpi、xhdpi、xxhdpi 和 xxxhdpi）应按照 2:3:4:6:8 的比例进行缩放。
 
+<!-- more -->
+
 -----
 
 ### 2.适配方案

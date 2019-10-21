@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/XMLHttpRequest.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><strong>一.同步和异步区别</strong></p>
 <p><span style="color: #000000;">　　简单说：同步是阻塞模式，异步是非阻塞模式。</span></p>

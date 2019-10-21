@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ServiceManager.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.启动过程分析</h2>
 <div>基于 binder 机制实现通信，添加服务，查询服务，获取服务。查询，获取服务时候需要检查权限，android是基于Linux底层，所以也很好的实现了linux多用户管理。</div>

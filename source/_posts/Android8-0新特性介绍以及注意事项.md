@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/android8_new_features.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp; &nbsp; &nbsp; &nbsp; 2017年8月22日，谷歌正式发布了Android 8.0的正式版，其正式名称为：<strong>Android Oreo</strong>（奥利奥） 。在此之前 临时代号叫: <strong>Android O</strong>。对应Api level 为<strong>26</strong>。</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 2017年12月5日 , 谷歌正式发布了Android 8.1的正式版。对应的Api Level 为<strong>27</strong> 。</p>

@@ -10,6 +10,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/android_service.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一. Service 介绍</h2>
 <p>Service属于android四大组件之一，在很多地方经常被用到。开启Service有两种不同的方式：startService和bindService。不同的开启方式，Service执行的生命周期方法也不同。</p>

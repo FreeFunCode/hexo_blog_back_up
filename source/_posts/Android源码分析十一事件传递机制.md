@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/touchEvent.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.介绍</h2>
 <p>　　Android三种事件类型：ACTION_DOWN,ACTOIN_MOVE,ACTION_UP。<br>　　事件传递的三个阶段：<br>　　　　分发(Dispatch)<br>　　　　　　方法：public boolean <strong>dispatchTouchEvent</strong>(MotionEvent ev)<br>　　　　拦截(Intercept)<br>　　　　　　方法：public boolean <strong>onInterceptTouchEvent</strong>(MotionEvent ev)<br>　　　　消费(Consume)<br>　　　　　　方法：public boolean <strong>onTouchEvent</strong>(MotionEvent event)</p>

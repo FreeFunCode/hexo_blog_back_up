@@ -15,6 +15,8 @@ Kotlin与java对比
 > kotlin结合mvvm架构，项目非常简洁。
 > kotlin是基于jvm编程语言，同java一样可以编译成class字节码文件。同java之间可以相互调用。
 
+<!-- more -->
+
 ### 基础语法
 --------
 #### 1.定义函数

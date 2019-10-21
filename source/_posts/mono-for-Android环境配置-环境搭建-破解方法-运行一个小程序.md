@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/monoforandroid.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>一.准备工作：下载相关软件工具，为搭建环境做准备。</p>
 <p>&nbsp;哎！百度网盘无法分享，根据名称下载。</p>

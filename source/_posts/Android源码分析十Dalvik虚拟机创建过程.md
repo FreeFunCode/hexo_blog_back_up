@@ -9,6 +9,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/dalvik.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一. 介绍Dalvik</h2>
 <p>　　1.java的运行需要JVM,同样android中使用了java语言，也需要一个VM。针对手机处理器和内存等硬件资源不足而推出来的一款VM，为android运行提供环境，叫DVM。</p>

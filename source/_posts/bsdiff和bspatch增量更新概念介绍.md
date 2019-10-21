@@ -17,6 +17,8 @@ categories:
 **热修复**：往往是从修复bug的角度出发，强调的是在不需要二次安装应用的前提下修复已知的bug(涉及关键词：Hook技术、动态代理等)。例如：阿里 AndFix。
 **增量更新**：APK增量更新是很多大厂APP采用的技术。bsdiff库生成补丁文件方式下载跟旧版本APK合成生成新版APK的原理(ligbspatch.so)。手机游戏app增量更新使用较多。例如：[SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)
 
+<!-- more -->
+
 -----
 
 ![bsdiff&bspatch](/images/bsdiff&bspatch.jpg)

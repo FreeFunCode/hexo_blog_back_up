@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/fragment.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp; &nbsp; Fragment 的存在必须依附于 Activity，并且与 Activity 一样，拥有自己的生命周期，同时处理用户的交互动作。同一个 Activity 可以有一个或多个 Fragment 作为界面内容，并且可以动态添加、删除 Fragment，灵活控制 UI 内容，也可以用来解决部分屏幕适配问题。</p>
 <p>&nbsp; &nbsp; 另外，support v4 包中也提供了 Fragment，兼容 Android 3.0 之前的系统（当然，现在 3.0 之前的系统在市场上已经很少见了，可以不予考虑），使用兼容包需要注意两点：</p>

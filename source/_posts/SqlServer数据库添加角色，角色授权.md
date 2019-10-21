@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/sqlgrant.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h4>&nbsp;&nbsp; 有时候我们需要跟第三方共享数据，但是又不能数据库完全开放。</h4>
 <h4>&nbsp;&nbsp; 所以使用数据库角色授权就能很好的解决这个问题。</h4>

@@ -6,6 +6,8 @@ categories: 前端
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/3842624.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
 
 在使用easyui getSelections 与 getSelected中，经常如果不注意这两个的使用，用混的话，如果对这两个属性不了解，找起问题来，都很费事。走过的弯路，做一个记录。

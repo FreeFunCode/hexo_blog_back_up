@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/okhttp-utils.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　okhttp-utils是张鸿洋是基于OkHttp封装的框架库。实际工作中，使用的不多，对于小型项目的网络请求和文件传输可以考虑直接使用。否则还是基于主流的OkHttp+Retrift+RxJava框架。</p>
 <p>　　对于OkHttp使用，可以自己根据自己项目需要，做一些封装。如果应付手头临时项目，可以借鉴GitHub上一些开源OkHttp封装库.只要去GitHub上搜索下OkHttp 会出来很多封装的框架。</p>

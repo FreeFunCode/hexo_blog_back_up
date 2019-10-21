@@ -33,7 +33,7 @@ categories: GitHub
 > `git remote add origin git@github.com:FreeFunCode/hexo_blog_back_up.git` 连接远程仓库
 > `git push -u origin master` 将本地仓库文件推送到远程仓库
 
-
+<!-- more -->
 
 
 ## 排查

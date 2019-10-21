@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/ContentProvider.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>&nbsp;&nbsp;&nbsp; ContentProvider虽然与Activity、Service、BroadcastReceiver齐名为Android四大组件。如果你不是特别开发一款与其他APP有数据交互的应用，它的使用频率远没有另外三者高。因为已经介绍了前三大组件，为了完善Android四大组件介绍了解，这次补充下ContentProvider介绍。哈哈~一边在看世界杯，巴西打瑞士。目前巴西1：0。我把所有金币全压巴西了~题外话说完，下面简单介绍下ContentProvider。</p>
 <h2>一.&nbsp; ContentProvider简介和常见使用场景：</h2>

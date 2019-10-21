@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/afinal.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>Afinal&nbsp;是一个android的sqlite的 orm 和 ioc 框架.是一种聚合型框架, 大而全。所以不推荐使用,只做了解即可.应付手头临时项目.</p>
 <p>推荐阅读,<a href="https://www.jianshu.com/p/f3227c7008d4" target="_blank">这么多开源框架，该用哪个好</a>？:</p>

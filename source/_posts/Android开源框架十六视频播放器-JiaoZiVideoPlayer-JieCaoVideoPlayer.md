@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/JiaoZiVideoPlayer.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　原JieCaoVideoPlayer 不知道什么时候改名了，现在叫JiaoZiVideoPlayer.</p>
 <p>　　项目GitHub地址：<a href="https://github.com/lipangit/JiaoZiVideoPlayer" target="_blank">https://github.com/lipangit/JiaoZiVideoPlayer</a></p>

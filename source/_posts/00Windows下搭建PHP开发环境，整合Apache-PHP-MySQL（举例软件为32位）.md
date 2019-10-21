@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/phpenvironment.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p><span style="color: #ff0000;"><strong><span style="font-size: 14pt;">原文来自：http://www.cnblogs.com/pharen/archive/2012/02/06/2340628.html</span></strong></span></p>
 <p><span style="color: #ff0000;"><strong><span style="font-size: 14pt;">在原作者的基础上，只是做了详细的解释。避免走弯路。（注：红色字体为本人加的）</span></strong></span></p>

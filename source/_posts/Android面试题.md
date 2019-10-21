@@ -22,6 +22,8 @@ onCreate-&gt;onRestart-&gt;onStart-&gt;onResume-&gt;onPause-&gt;onStop-&gt;onDes
 
 onAttch-&gt;onCreate-&gt;onCreateView-&gt;onActivityCreate-&gt;onStart-&gt;onResume-&gt;onPause-onStop-&gt;onDestoryView-&gt;onDestory-&gt;onDetach
 
+<!-- more -->
+
 [www.cnblogs.com/fajieyefu/p…](https://link.juejin.im?target=https%3A%2F%2Fwww.cnblogs.com%2Ffajieyefu%2Fp%2F6092465.html)
 
 ## 4.view事件传递

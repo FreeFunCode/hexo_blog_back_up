@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/recyclerview.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　RecyclerView是Android 5.0推出的。<br>　　RecyclerView是support:recyclerview-v7中提供的控件，最低兼容到android 3.0版本。可以通过导入support-v7对其进行使用。<br>　　RecyclerView已经标准化ViewHolder，我们自定义的ViewHoler需要继承 RecyclerView.ViewHolder，然后在构造方法中初始化控件，后面会有具体介绍。通过设置不同的LayoutManager，以及结合ItemDecoration , ItemAnimator，ItemTouchHelper，可以实现非常炫酷的效果。</p>
 <h2>一.布局&nbsp;</h2>

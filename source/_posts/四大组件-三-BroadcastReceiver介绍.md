@@ -10,6 +10,8 @@ categories:
 
 [点击查看原文](https://www.cnblogs.com/bugzone/p/BroadcastReceiver.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一. BroadcastReceiver 使用场景</h2>
 <p>　　Broadcast主要是用作消息通信（专业术语叫IPC），Android的IPC基本都是binder来实现，那么这里的BroadcastReceiver其实也是对binder的一个封装，方便上层调用。开发过程中遇到的单进程多线程通信的场景比较多，所以这种情况下使用Broadcast并不是最佳选择，很多人会自己实现一套 Observer 或者使用EventBus等第三方库来完成该功能，不可否认，他们在这种场合下不论是效率还是灵活性方面都更具优势。但是，BroadcastReceiver既然能够在Android四大组件中占有一席之地，自然也有它独有的优势，第一个是系统相关事件的监听，比如开机启动，网络连接，电量变化等，第二个是多进程通信，这些是Observer 或者EventBus很难办到的。所以BroadcastReceiver的使用需要看具体的使用场景，像单进程多线程这种场景，就不建议用BroadcastReceiver了，有种杀鸡用牛刀的赶脚，使用Observer 或者EventBus更适合；但是对于需要监听系统广播事件的场合，比方说现在很多进程保活机制里面就用到了一些系统广播的监听，就正是BroadcastReceiver大展拳脚的时候了。</p>

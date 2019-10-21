@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/OkHttpUtils.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <p>　　OkHttpUtils是 廖子尧 是基于OkHttp封装的框架库。里面也封装了很多其他实用的一些组件，这里只介绍下网络相关的使用。</p>
 <p>　　里面的<strong>上传下载功能使用队列的概念</strong>做了进一步封装，但是因为我使用的是旧库，对于android6.0运行时权限判断和android7.0私有文件权限设置没有处理。</p>

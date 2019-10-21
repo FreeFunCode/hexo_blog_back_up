@@ -13,3 +13,5 @@ categories:
 > - 1.Measure 测量View大小
 > - 2.layout 计算摆放位置
 > - 3.draw 画View
+
+<!-- more -->

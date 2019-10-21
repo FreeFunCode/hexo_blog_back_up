@@ -8,6 +8,8 @@ categories:
 ---
 [点击查看原文](https://www.cnblogs.com/bugzone/p/Glide.html)
 
+<!-- more -->
+
 <div id="cnblogs_post_body" class="blogpost-body ">
     <h2>一.引言</h2>
 <p>&nbsp;Glide被广泛运用在google的开源项目中，包括2014年的google I/O大会上发布的官方app</p>
