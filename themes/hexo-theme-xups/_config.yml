@@ -102,10 +102,10 @@ friends:
       name: GitHub
       title: GitHub
       link: https://github.com/freefuncode/
-    6:
-      name: GitBook
-      title: GitBook
-      link: https://freefuncode.github.io/GitBook
+#    6:
+#      name: GitBook
+#      title: GitBook
+#      link: https://freefuncode.github.io/GitBook
 
 
 #----------------------------
@@ -133,7 +133,7 @@ head_links:
 # SEO
 #----------------------------
 SEO:
-  keywords: freefuncode, Android, Kotlin, 网络记事本, 网记本
+  keywords: freefuncode, huangguangzhi, Android, Kotlin, 网络记事本, 网记本, inote.fun
   description: FreeFunCode网络记事本
 
 #----------------------------
