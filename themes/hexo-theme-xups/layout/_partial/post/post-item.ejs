@@ -36,7 +36,9 @@
                 <a href="<%- url_for(post.permalink) %>">阅读剩下更多</a>
             </p>
         </div>
-        <div class="post-thumbnail" data-img="<%- post.photos[0] %>">
+        
+	<div class="post-thumbnail" data-img="<%- post.photos[0] %>">
+<!--
             <a href="<%= post.permalink %>" title="<%= post.title %>">
                 <% if (post.thumbnail) { %>
                     <!--
@@ -51,6 +53,8 @@
                     <img class="thumbnail" src="<%- url_for('img/default.png') %>" data-echo="<%- url_for('img/thumbnail/' + date(post.date, 'YYYY-MM-DD').charAt(date(post.date, 'YYYY-MM-DD').length - 1)  + '.jpg') %>" alt="默认配图" >
                 <% } %>
             </a>
+-->
         </div>
+
     </div>
 </article>
