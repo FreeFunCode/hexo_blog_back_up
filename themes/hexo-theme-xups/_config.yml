@@ -12,6 +12,10 @@ menu:
     name: 首页
     link: /
     icon: icon-home
+  photos:
+    name: 相片
+    link: /photos/
+    icon: icon-photo
   lab:
     name: 时间线
     link: /lab/
