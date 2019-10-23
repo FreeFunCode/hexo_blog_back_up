@@ -9,21 +9,21 @@
 #----------------------------
 menu:
   home:
-    name: 首页
+    name: 日志
     link: /
     icon: icon-home
   photos:
-    name: 相片
+    name: 相册
     link: /photos/
-    icon: icon-photo
+    icon: icon-files-empty
   lab:
-    name: 时间线
+    name: 建站
     link: /lab/
-    icon: icon-lab
+    icon: icon-office
   about:
     name: 关于
     link: /about/
-    icon: icon-about
+    icon: icon-profile
   comment:
     name: 留言
     link: /comment/
