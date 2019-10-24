@@ -226,7 +226,7 @@ if (!window['String']['prototype']['trim']) {
           '<div class="com-avatar"><img id="JELON__loginAvatar" src="/img/unsigned_avatar.jpg" alt="avatar"></div>',
           '<div class="com-text">',
             '<div class="main">',
-              '<textarea class="text-area-edited show" id="JELON__editBox" placeholder="欢迎评论！"></textarea>',
+              '<textarea class="text-area-edited show" id="JELON__editBox" placeholder="暂时不支持gitalk评论，因为本站在国内，不在github。如果需要联系我，请关注我公众号吧，留言能看到！"></textarea>',
               '<div class="text-area-preview" id="JELON__previewBox"></div>',
             '</div>',
             '<div class="switch">',
