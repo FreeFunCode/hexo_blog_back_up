@@ -93,5 +93,5 @@ deploy:
   repo: 
     coding: https://e.coding.net/hgz/hgz.coing.me.git
     github: https://github.com/FreeFunCode/FreeFunCode.github.io
-    gitee: https://gitee.com/bugzone/bugzone.git
+#    gitee: https://gitee.com/bugzone/bugzone.git
   branch: master 
