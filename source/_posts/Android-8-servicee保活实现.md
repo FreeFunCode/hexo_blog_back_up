@@ -72,7 +72,7 @@ categories:
 			throw new IllegalStateException(
 					"Not allowed to start service " + service + ": " + cn.getClassName());
 		}
-```	
+```
 
 -----
 
@@ -87,7 +87,7 @@ categories:
 
 > 启动/停止服务
 
-``` 
+```
 if (!CallingStateListener.isCallingStateListener()) {
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
                     startForegroundService(Intent(this, CallingStateListener::class.java))
