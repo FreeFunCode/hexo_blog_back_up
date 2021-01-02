@@ -1,15 +1,17 @@
 ---
 title: 建站
-date: 2019-08-25 20:29:57
+date: 2021-01-02 20:29:57
 pageid: lab
 
 projects:
-	【2021】 Flag:
-        title: 2021 Flag
-        time: 2021-01-02
+
+    继续前行:
+        title: 继续前行-2021
+        time: 2020-01-02
         content:
             1:
-                name: 2021继续输出技术博客40篇+。
+                name: 继续输出技术博客40篇+。
+
 
     增加【相册】:
         title: 增加【相册】
