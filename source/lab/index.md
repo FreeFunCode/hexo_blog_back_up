@@ -4,6 +4,13 @@ date: 2019-08-25 20:29:57
 pageid: lab
 
 projects:
+	【2021】 Flag:
+        title: 2021 Flag
+        time: 2021-01-02
+        content:
+            1:
+                name: 2021继续输出技术博客40篇+。
+
     增加【相册】:
         title: 增加【相册】
         time: 2019-10-23
